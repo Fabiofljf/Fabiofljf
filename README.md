@@ -39,6 +39,18 @@ Machine: 💻  MacBook Pro
 
 📫 Fabiolaforesta@icloud.com
 
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+
+<br>
+
+[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Fabiofljf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fabiofljf)  
+
+
+
 <!--
 
 
