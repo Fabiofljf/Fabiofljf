@@ -24,7 +24,7 @@ I have been studying different programming languages and more! I have hung up a 
 
 ### About me:
  
-During my student career, I had the opportunity to train extensively in the following sectors: Economic / Financial / IT, in particular, in the field of Marketing Management, both traditional and tourist, and in the field of the Financial Market. I attended several workshops and innovative teaching laboratories focused on the development of new technologies, spaces and managerial training. I participated in several start-up competitions presenting many projects, this prompted me to deepen my knowledge of the IT world, in particular, in the use and design of web apps. I like to write code and see its functionality. I define myself as a "handyman".  I am a very attentive, creative, persistent person; very flexible and with to adapt to circumstances and reinvent myself when everything goes wrong.
+During my student career, I had the opportunity to train extensively in the following sectors: Economic / Financial / IT, in particular, in the field of Marketing Management, both traditional and tourist, and in the field of the Financial Market. I attended several workshops and innovative teaching laboratories focused on the development of new technologies, spaces and managerial training. I participated in several start-up competitions presenting many projects, this prompted me to deepen my knowledge of the IT world, in particular, in the use and design of web apps. I like to write code and see its functionality. I am a very attentive, creative, persistent person; very flexible and with to adapt to circumstances and reinvent myself when everything goes wrong.
 
 
 
