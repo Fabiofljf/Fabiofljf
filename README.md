@@ -1,9 +1,5 @@
-# 🔭 I’m currently working on this page... 
-
-<br>
-
 ## Hi! Welcome to my profile! 👋 
-My name is Fabio, I'm a young Full Stack Web Developer!
+My name is Fabio, I'm a Full Stack Web Developer!
 
 I have been studying different programming languages and more! I have hung up a lot of notions about the most famous frameworks and libraries.
   
@@ -12,19 +8,39 @@ I have been studying different programming languages and more! I have hung up a 
 
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 
-<a href="https://www.w3schools.com/bootstrap5/" target="_blank"><img align="left" alt="CSS3" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" /></a>
+<a href="https://www.w3schools.com/bootstrap5/" target="_blank"><img align="left" alt="bootstrap" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" /></a>
 
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://i2.wp.com/www.associazioneincanto.it/wp-content/uploads/2016/03/js-logo-1.png?fit=500%2C500" /></a>
 
-<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="CSS3" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="tailwind" width="80px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.png" /></a>
 
-<a href="https://laravel.com/docs/7.x" target="_blank"><img align="left" alt="CSS3" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="javascript" width="26px" src="https://i2.wp.com/www.associazioneincanto.it/wp-content/uploads/2016/03/js-logo-1.png?fit=500%2C500" /></a>
+
+
+<a href="https://vuejs.org/" target="_blank"><img align="left" alt="vue.js" width="50px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" /></a>
+
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="react.js" width="50px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.png" /></a>
+
+<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="php" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /></a>
+
+<a href="https://laravel.com/docs/7.x" target="_blank"><img align="left" alt="laravel" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" /></a>
+
+<a href="https://www.mysql.com/it/" target="_blank"><img align="left" alt="mysql" width="56px" 
+src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" /></a>
+
+<a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="node.js" width="56px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1280px-Node.js_logo_2015.svg.png" /></a>
+
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="next.js" width="56px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" /></a>
+
+<a href="https://hydrogen.shopify.dev/" target="_blank"><img align="left" alt="shopify" width="56px" 
+src="https://blog.stackblitz.com/img/remote/GoWrX.png" /></a>
 
 <br>
 
 ### About me:
  
-During my student career, I had the opportunity to train extensively in the following sectors: Economic / Financial / IT, in particular, in the field of Marketing Management, both traditional and tourist, and in the field of the Financial Market. I attended several workshops and innovative teaching laboratories focused on the development of new technologies, spaces and managerial training. I participated in several start-up competitions presenting many projects, this prompted me to deepen my knowledge of the IT world, in particular, in the use and design of web apps. I like to write code and see its functionality. I am a very attentive, creative, persistent person; very flexible and with to adapt to circumstances and reinvent myself when everything goes wrong.
+During my student career, I had the opportunity to train extensively in the following sectors: Economic / Financial / IT. I attended several workshops and innovative teaching laboratories focused on the development of new technologies, spaces and managerial training. I participated in several start-up competitions presenting many projects, this prompted me to deepen my knowledge of the IT world, in particular, in the use and design of web apps. I like to write code and see its functionality. I am a very attentive, creative, persistent person; very flexible and with to adapt to circumstances.
 
 
 
@@ -50,53 +66,16 @@ Machine: 💻  MacBook Pro
 
 
 
-<!--
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiofljf)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiofljf&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fabiofljf)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiofljf&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Fabiofljf)  
 
-### Languages and Tools:
 
-html
-
-css
-
-bootstrap
-
-js
-
-vue.js
-
-vue.cli
-
-php
-
-laravel
-
-sass
-
-mysql
-
-figma
-
-postman
-
-
-
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-
-
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-
-<br />
 <br />
 
 ### Softwares:
@@ -108,14 +87,3 @@ postman
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-
-
-
-<br />
-<br />
-
----
-
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Fabiofljf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
--->
