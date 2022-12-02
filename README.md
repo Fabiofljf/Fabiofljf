@@ -36,7 +36,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2
 <a href="https://hydrogen.shopify.dev/" target="_blank"><img align="left" alt="shopify" width="56px" 
 src="https://blog.stackblitz.com/img/remote/GoWrX.png" /></a>
 
-<br>
+<br><br>
 
 ### About me:
  
