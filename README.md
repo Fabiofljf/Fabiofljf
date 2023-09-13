@@ -7,7 +7,7 @@ I work with:
 <div>Css, bootstrap, Tailwin and more;</div>
 <div>Javascript, Vue.js, React.js ;</div>
 <div>PHP, laravel, Wordpress;</div>
-<div>Liquid, Spotify;</div>
+<div>Liquid, Shopify;</div>
 
 <br>
 
