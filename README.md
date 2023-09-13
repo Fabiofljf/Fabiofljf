@@ -1,82 +1,18 @@
-## Hi! Welcome to my profile! 👋 
-My name is Fabio, I'm a Full Stack Web Developer!
+<h1>Hi guys! I'm Fabio La Foresta! 👋 </h1>
+<p>I'm a Full Stack Web Developer! I studied different programming languages and more! I have hung up a lot of notions about the most famous frameworks and libraries.</p>
 
-I have been studying different programming languages and more! I have hung up a lot of notions about the most famous frameworks and libraries.
-  
+I work with:
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-
-<a href="https://www.w3schools.com/bootstrap5/" target="_blank"><img align="left" alt="bootstrap" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" /></a>
-
-
-<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="tailwind" width="80px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.png" /></a>
-
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="javascript" width="26px" src="https://i2.wp.com/www.associazioneincanto.it/wp-content/uploads/2016/03/js-logo-1.png?fit=500%2C500" /></a>
-
-
-<a href="https://vuejs.org/" target="_blank"><img align="left" alt="vue.js" width="50px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" /></a>
-
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="react.js" width="50px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.png" /></a>
-
-<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="php" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /></a>
-
-<a href="https://laravel.com/docs/7.x" target="_blank"><img align="left" alt="laravel" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" /></a>
-
-<a href="https://www.mysql.com/it/" target="_blank"><img align="left" alt="mysql" width="56px" 
-src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" /></a>
-
-<a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="node.js" width="56px" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1280px-Node.js_logo_2015.svg.png" /></a>
-
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="next.js" width="56px" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" /></a>
-
-<a href="https://hydrogen.shopify.dev/" target="_blank"><img align="left" alt="shopify" width="56px" 
-src="https://blog.stackblitz.com/img/remote/GoWrX.png" /></a>
-
-<br><br>
-
-### About me:
- 
-During my student career, I had the opportunity to train extensively in the following sectors: Economic / Financial / IT. I attended several workshops and innovative teaching laboratories focused on the development of new technologies, spaces and managerial training. I participated in several start-up competitions presenting many projects, this prompted me to deepen my knowledge of the IT world, in particular, in the use and design of web apps. I like to write code and see its functionality. I am a very attentive, creative, persistent person; very flexible and with to adapt to circumstances.
-
-
-
-![I am a young Full Stack Web Developer!](https://i.pinimg.com/originals/8c/6b/c1/8c6bc14486197f3c0db28ee38ce3f76a.jpg) 
-
+<div>HTML;</div>
+<div>Css, bootstrap, Tailwin and more;</div>
+<div>Javascript, Vue.js, React.js ;</div>
+<div>PHP, laravel, Wordpress;</div>
+<div>Liquid, Spotify;</div>
 
 <br>
 
+<div>My prefer machine is: 💻  MacBook Pro </div>
 
-[<img style="fill:white;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fabiofljf)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fabio-la-foresta-227b7a211/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Fabiofljf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fabiofljf/)  
-
-<br>
-
-Machine: 💻  MacBook Pro
-
-<br>
-
-📫 Fabiolaforesta@icloud.com
-
-<br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fabiofljf)  
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiofljf)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiofljf&show_icons=true)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Fabiofljf)  
-
-
-<br />
 
 ### Softwares:
 
